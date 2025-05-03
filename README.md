@@ -1,6 +1,10 @@
 # olá, mundo
 primeiro repositorio do curso de git e github
 
-o primeiro repositorio que eu fiz com o curso: curso em video
+o "olá, mundo" é um dos primeiros "codigos" que você pode fazer de maneira fácil no vscode ou outro programa
 
-esa linha eu adicionei diretamente no site!! que legal!!
+python:
+      print("olá, mundo")
+
+javascript:
+      console.log(olá, mundo)
